@@ -13,3 +13,6 @@ django-celery-beat
 channels
 daphne
 channels-redis
+gunicorn
+whitenoise
+dj-database-url
